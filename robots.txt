@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://huibunny.github.io/t12k/t12k/sitemap.xml
